@@ -1,5 +1,5 @@
 ### Olá! Eu sou Arthur Lopes Clemente
-Seja bem vindo/a ao meu GitHub!
+Bem-vindo/a à minha pasta no GitHub! Aqui, você encontrará informações sobre quem sou e o que faço.
 
 -----
 
@@ -10,7 +10,7 @@ Seja bem vindo/a ao meu GitHub!
 
 -----
 
-### Sobre mim🚀
+### Sobre Mim🚀
 Meu nome é Arthur e tenho 18 anos.
 
 Atualmente estou cursando o 3º período em Sistema de Informação.
@@ -19,7 +19,16 @@ Proativo e tenho facilidade para aprender.
 
 -----
 
-### Meu notebook
+### Qual meu Objetivo com este Repositório?
+O objetivo desta pasta no GitHub é apresentar um resumo sobre minha trajetória profissional e os serviços que ofereço. Aqui, busco compartilhar minhas habilidades, experiências e projetos, com a intenção de demonstrar o que faço e como posso contribuir em novas oportunidades e colaborações.
+
+Através deste repositório, meu objetivo é proporcionar uma visão transparente e acessível do meu trabalho, de maneira que potenciais clientes ou colaboradores possam entender como posso agregar valor aos seus projetos.
+
+
+
+-----
+
+### Meu Notebook
 
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -31,7 +40,8 @@ Proativo e tenho facilidade para aprender.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 -----
- ### Sei usar, mas tenho que aprender muito
+
+ ### Sei usar, mas tenho muito a aprender
 <div style= "display: inline_block"><br/>
   <img align= "center" alt= "git" src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
  <img align= "center" alt= "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -40,6 +50,5 @@ Proativo e tenho facilidade para aprender.
  <img align= "center" alt= "figma" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div><br/>
 
-
 -----
-### Tenho interesse em atuar na área de desenvolvimento de software, buscando sempre aprender e aplicar novas tecnologias para otimizar processos e criar soluções
+
