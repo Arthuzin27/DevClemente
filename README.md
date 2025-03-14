@@ -24,8 +24,6 @@ O objetivo desta pasta no GitHub é apresentar um resumo sobre minha trajetória
 
 Através deste repositório, meu objetivo é proporcionar uma visão transparente e acessível do meu trabalho, de maneira que potenciais clientes ou colaboradores possam entender como posso agregar valor aos seus projetos.
 
-
-
 -----
 
 ### Meu Notebook
