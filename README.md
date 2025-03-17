@@ -15,8 +15,6 @@ Meu nome é Arthur e tenho 18 anos.
 
 Atualmente estou cursando o 3º período em Sistema de Informação.
 
-Proativo e tenho facilidade para aprender.
-
 -----
 
 ### Qual meu Objetivo com este Repositório?
